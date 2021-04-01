@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Anvil",
+    "code": "anvl-131",
+    "location": "east warehouse",
+    "stock": [
+      { "quantity": 50, "cost": 66, "price": 100 },
+      { "quantity": 50, "cost": 66, "price": 100 },
+      { "quantity": 50, "cost": 66, "price": 100 },
+      { "quantity": 50, "cost": 66, "price": 100 },
+      { "quantity": 50, "cost": 66, "price": 100 },
+      { "quantity": 50, "cost": 66, "price": 100 }
+    ]
+  },
+  {
+    "name": "Billboard",
+    "code": "blbrd-533",
+    "location": "east warehouse",
+    "stock": [
+      { "quantity": 10, "cost": 45, "price": 85 },
+      { "quantity": 10, "cost": 45, "price": 85 },
+      { "quantity": 10, "cost": 45, "price": 85 },
+      { "quantity": 10, "cost": 45, "price": 85 },
+      { "quantity": 10, "cost": 45, "price": 85 },
+      { "quantity": 10, "cost": 45, "price": 85 }
+    ]
+  },
+  {
+    "name": "Boomarang",
+    "code": "bmrg-23",
+    "location": "supplier stock",
+    "stock": [
+      { "quantity": 120, "cost": 5, "price": 20 },
+      { "quantity": 120, "cost": 5, "price": 20 },
+      { "quantity": 120, "cost": 5, "price": 20 },
+      { "quantity": 120, "cost": 5, "price": 20 },
+      { "quantity": 120, "cost": 5, "price": 20 },
+      { "quantity": 120, "cost": 5, "price": 20 }
+    ]
+  },
+  {
+    "name": "Cement",
+    "code": "cmt-55",
+    "location": "east warehouse",
+    "stock": [
+      { "quantity": 2, "cost": 3, "price": 7 },
+      { "quantity": 2, "cost": 3, "price": 7 },
+      { "quantity": 2, "cost": 3, "price": 7 },
+      { "quantity": 2, "cost": 3, "price": 7 },
+      { "quantity": 2, "cost": 3, "price": 7 },
+      { "quantity": 2, "cost": 3, "price": 7 }
+    ]
+  },
+  {
+    "name": "Flypaper",
+    "code": "flpr-12",
+    "location": "west warehouse",
+    "stock": [
+      { "quantity": 12, "cost": 1.2, "price": 2.5 },
+      { "quantity": 12, "cost": 1.2, "price": 2.5 },
+      { "quantity": 12, "cost": 1.2, "price": 2.5 },
+      { "quantity": 12, "cost": 1.2, "price": 2.5 },
+      { "quantity": 12, "cost": 1.2, "price": 2.5 },
+      { "quantity": 12, "cost": 1.2, "price": 2.5 }
+    ]
+  },
+  {
+    "name": "Glue",
+    "code": "glue-98",
+    "location": "store",
+    "stock": [
+      { "quantity": 4, "cost": 4, "price": 5.5 },
+      { "quantity": 4, "cost": 4, "price": 5.5 },
+      { "quantity": 4, "cost": 4, "price": 5.5 },
+      { "quantity": 4, "cost": 4, "price": 5.5 },
+      { "quantity": 4, "cost": 4, "price": 5.5 },
+      { "quantity": 4, "cost": 4, "price": 5.5 }
+    ]
+  },
+  {
+    "name": "Invisible Paint",
+    "code": "ipnt-447",
+    "location": "west warehouse",
+    "stock": [
+      { "quantity": 127, "cost": 12, "price": 17.5 },
+      { "quantity": 127, "cost": 12, "price": 17.5 },
+      { "quantity": 127, "cost": 12, "price": 17.5 },
+      { "quantity": 127, "cost": 12, "price": 17.5 },
+      { "quantity": 127, "cost": 12, "price": 17.5 },
+      { "quantity": 127, "cost": 12, "price": 17.5 }
+    ]
+  },
+  {
+    "name": "Rocket Sled",
+    "code": "rksd-5",
+    "location": "east warehouse",
+    "stock": [
+      { "quantity": 2, "cost": 550, "price": 755 },
+      { "quantity": 2, "cost": 550, "price": 755 },
+      { "quantity": 2, "cost": 550, "price": 755 },
+      { "quantity": 2, "cost": 550, "price": 755 },
+      { "quantity": 2, "cost": 550, "price": 755 },
+      { "quantity": 2, "cost": 550, "price": 755 }
+    ]
+  },
+  {
+    "name": "Roller Skis",
+    "code": "rski-19",
+    "location": "store",
+    "stock": [
+      { "quantity": 3, "cost": 2.75, "price": 5 },
+      { "quantity": 3, "cost": 2.75, "price": 5 },
+      { "quantity": 3, "cost": 2.75, "price": 5 },
+      { "quantity": 3, "cost": 2.75, "price": 5 },
+      { "quantity": 3, "cost": 2.75, "price": 5 },
+      { "quantity": 3, "cost": 2.75, "price": 5 }
+    ]
+  },
+  {
+    "name": "Safe",
+    "code": "safe-877",
+    "location": "east warehouse",
+    "stock": [
+      { "quantity": 3, "cost": 350, "price": 400 },
+      { "quantity": 3, "cost": 350, "price": 400 },
+      { "quantity": 3, "cost": 350, "price": 400 },
+      { "quantity": 3, "cost": 350, "price": 400 },
+      { "quantity": 3, "cost": 350, "price": 400 },
+      { "quantity": 3, "cost": 350, "price": 400 }
+    ]
+  },
+  {
+    "name": "TNT",
+    "code": "tnt-999",
+    "location": "supplier stock",
+    "stock": [
+      { "quantity": 10, "cost": 45, "price": 67.5 },
+      { "quantity": 10, "cost": 45, "price": 67.5 },
+      { "quantity": 10, "cost": 45, "price": 67.5 },
+      { "quantity": 10, "cost": 45, "price": 67.5 },
+      { "quantity": 10, "cost": 45, "price": 67.5 },
+      { "quantity": 10, "cost": 45, "price": 67.5 }
+    ]
+  }
+]
